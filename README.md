@@ -1,5 +1,29 @@
-## Hi there 👋
+## Hi there 👋 I'm José
 
+🎓 I'm a Computer Engineering graduate with a strong passion for **Data Science** and **Artificial Intelligence**.
+
+💻 My technical background includes:
+- Programming languages: **C++**, **Python**, **SQL**
+- Web technologies: Basic knowledge of **JavaScript**, **HTML**, and **CSS**
+
+🚀 I'm currently working remotely in the **Big Data department at TITSA**, where I’m gaining hands-on experience in data engineering and analytics.
+
+📚 I’m continuously learning and improving my skills through self-study, with a strong focus on data science, machine learning, and AI technologies.
+
+🎯 My next step: I'm planning to start a **Master’s degree in Data Science** in the upcoming academic year to deepen my expertise and pursue a career in the field of AI and advanced analytics.
+
+---
+
+## 📂 Projects
+Check out my [blog](https://joseantonio002.github.io/) for updates on my work and learning journey.
+Also feel free to explore my repositories to see what I’m currently working on or have built in the past. 
+
+## 📫 Get in touch
+You can connect with me on [LinkedIn](www.linkedin.com/in/josé-antonio-antúnez-b1460a30a) 
+
+---
+
+Thanks!
 <!--
 **joseantonio002/joseantonio002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
