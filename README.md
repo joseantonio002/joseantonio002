@@ -19,7 +19,7 @@ Check out my [blog](https://joseantonio002.github.io/) for updates on my work an
 Also feel free to explore my repositories to see what I’m currently working on or have built in the past. 
 
 ## 📫 Get in touch
-You can connect with me on [LinkedIn](www.linkedin.com/in/josé-antonio-antúnez-b1460a30a) 
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-antonio-ant%C3%BAnez-b1460a30a/) 
 
 ---
 
