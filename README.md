@@ -6,7 +6,7 @@
 - Programming languages: **C++**, **Python**, **SQL**
 - Web technologies: Basic knowledge of **JavaScript**, **HTML**, and **CSS**
 - Visualizing data with **PowerBI**
-- Version control with **git** and **github**
+- Version control with **Git** and **Github**
 
 🚀 I'm currently working remotely in the **Big Data department at TITSA**, where I’m gaining hands-on experience in data engineering and analytics.
 
