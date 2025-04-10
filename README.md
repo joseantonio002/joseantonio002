@@ -1,4 +1,4 @@
-## Hi there 👋 I'm José
+## Hello! 👋 I'm José
 
 🎓 I'm a Computer Engineering graduate with a strong passion for **Data Science** and **Artificial Intelligence**.
 
@@ -8,7 +8,7 @@
 
 🚀 I'm currently working remotely in the **Big Data department at TITSA**, where I’m gaining hands-on experience in data engineering and analytics.
 
-📚 I’m continuously learning and improving my skills through self-study, with a strong focus on data science, machine learning, and AI technologies.
+📚 Self-studying, with a strong focus on data science, machine learning, and AI technologies.
 
 🎯 My next step: I'm planning to start a **Master’s degree in Data Science** in the upcoming academic year to deepen my expertise and pursue a career in the field of AI and advanced analytics.
 
@@ -19,7 +19,7 @@ Check out my [blog](https://joseantonio002.github.io/) for updates on my work an
 Also feel free to explore my repositories to see what I’m currently working on or have built in the past. 
 
 ## 📫 Get in touch
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-antonio-ant%C3%BAnez-b1460a30a/) 
+[LinkedIn](https://www.linkedin.com/in/jos%C3%A9-antonio-ant%C3%BAnez-b1460a30a/) 
 
 ---
 
