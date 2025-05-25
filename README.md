@@ -12,8 +12,6 @@
 
 📚 Self-studying, with a strong focus on data science, machine learning, and AI technologies.
 
-🎯 My next step: I'm planning to start a **Master’s degree in Data Science** in the upcoming academic year.
-
 ---
 
 ## 📂 Projects
