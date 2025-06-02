@@ -3,12 +3,11 @@
 🎓 I'm a Computer Engineering graduate with a strong passion for **Data Science** and **Artificial Intelligence**.
 
 💻 My technical background includes:
-- Programming languages: **C++**, **Python**, **SQL**
+- Programming languages: **C++**, **Python**, **SQL**, **C#**
 - Web technologies: Basic knowledge of **JavaScript**, **HTML**, and **CSS**
 - Visualizing data with **PowerBI**
 - Version control with **Git** and **Github**
-
-🚀 I'm currently working remotely in the **Big Data department at TITSA**, where I’m gaining hands-on experience in data engineering and analytics.
+- Creating apps with Power Apps and Power Automate
 
 📚 Self-studying, with a strong focus on data science, machine learning, and AI technologies.
 
