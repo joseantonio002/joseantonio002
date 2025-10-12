@@ -10,6 +10,8 @@
 - Version control and containerization with **Git**, **Github**, **Docker**
 - Orchestration with **Airflow**
 
+Currently pursuing a Master's degree in Big Data Technologies at the University of Murcia
+
 ---
 
 ## 📂 Projects
