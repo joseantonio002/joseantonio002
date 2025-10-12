@@ -1,15 +1,14 @@
 ## Hello! 👋 I'm José
 
-🎓 I'm a Computer Engineering graduate with a strong passion for **Data Science** and **Artificial Intelligence**.
+🎓 I'm a Computer Engineering graduate, specialized in **Data Engineer** and **Data Science**.
 
 💻 My technical background includes:
-- Programming languages: **C++**, **Python**, **SQL**, **C#**
-- Web technologies: Basic knowledge of **JavaScript**, **HTML**, and **CSS**
-- Visualizing data with **PowerBI**
-- Version control with **Git** and **Github**
-- Creating apps with Power Apps and Power Automate
-
-📚 Self-studying, with a strong focus on data science, machine learning, and AI technologies.
+- Programming languages: **Python**, **C++**, **C#**
+- Data manipulation and storage: **SQL**, **Pandas**, **DuckDB**
+- Machine Learning/Deep learning models with **PyTorch**, **Xgboost**, **scikit-learn**
+- Visualizing data with **Matplotlib**, **Seaborn**, **PowerBI**
+- Version control and containerization with **Git**, **Github**, **Docker**
+- Orchestration with **Airflow**
 
 ---
 
