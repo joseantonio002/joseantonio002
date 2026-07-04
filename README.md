@@ -1,29 +1,11 @@
-## Hello! 👋 I'm José
+## Hello! I'm José
 
-🎓 I'm a Computer Engineering graduate, specialized in **Data Engineer** and **Data Science**.
-
-💻 My technical background includes:
-- Programming languages: **Python**, **C++**, **C#**
-- Data manipulation and storage: **SQL**, **Pandas**, **DuckDB**
-- Machine Learning/Deep learning models with **PyTorch**, **Xgboost**, **scikit-learn**
-- Visualizing data with **Matplotlib**, **Seaborn**, **PowerBI**
-- Version control and containerization with **Git**, **Github**, **Docker**
-- Orchestration with **Airflow**
-
-Currently pursuing a Master's degree in Big Data Technologies at the University of Murcia
+I like building things and working with data
 
 ---
 
 ## 📂 Projects
-Check out my [blog](https://joseantonio002.github.io/) for updates on my work and learning journey.
-Also feel free to explore my repositories to see what I’m currently working on or have built in the past. 
-
-## 📫 Get in touch
-[LinkedIn](https://www.linkedin.com/in/jos%C3%A9-antonio-ant%C3%BAnez-b1460a30a/) 
-
----
-
-Thanks!
+Check out my [blog](https://joseantonio002.github.io/) to read detailed explanations of my projects, or browse my repositories directly to check out the code.
 <!--
 **joseantonio002/joseantonio002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
