@@ -2,10 +2,6 @@
 
 I like building things and working with data
 
----
-
-## 📂 Projects
-Check out my [blog](https://joseantonio002.github.io/) to read detailed explanations of my projects, or browse my repositories directly to check out the code.
 <!--
 **joseantonio002/joseantonio002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
